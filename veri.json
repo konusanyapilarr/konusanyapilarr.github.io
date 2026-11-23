@@ -1,0 +1,59 @@
+{
+ "takipci": 8169,
+ "izlenme": 673551,
+ "paylasim": 8496,
+ "kaydetme": 5565,
+ "erisim30": 358362,
+ "takipsiz_yuzde": 93,
+ "kitle": {
+  "kadin": 52,
+  "yas25_44": 72,
+  "sehir1": "İstanbul",
+  "sehir1_yuzde": 66,
+  "sehirler": [
+   "Ankara",
+   "İzmir",
+   "Bursa"
+  ],
+  "ulke2": "Almanya"
+ },
+ "videolar": [
+  {
+   "id": "18141422221537968",
+   "vid": "001_rumeli_hisari",
+   "ad": "Rumeli Hisarı",
+   "izlenme": 316391,
+   "adres": "https://www.instagram.com/reel/DffPb3KFHyM/",
+   "kapak": "001_rumeli_hisari_kapak.jpg"
+  },
+  {
+   "id": "18124213499472061",
+   "vid": "040_pera_palas",
+   "ad": "Pera Palas Oteli",
+   "izlenme": 91592,
+   "adres": "https://www.instagram.com/reel/Df4F-_DDJYV/",
+   "kapak": "040_pera_palas_kapak.jpg"
+  },
+  {
+   "id": "18110519579260919",
+   "vid": "033_anadolu_hisari",
+   "ad": "Anadolu Hisarı",
+   "izlenme": 64338,
+   "adres": "https://www.instagram.com/reel/Dftn6gdCZqz/",
+   "kapak": "033_anadolu_hisari_kapak.jpg"
+  },
+  {
+   "id": "17957002128299578",
+   "vid": "010_kiz_kulesi",
+   "ad": "Kız Kulesi",
+   "izlenme": 39495,
+   "adres": "https://www.instagram.com/reel/DfrDCl8nCa6/",
+   "kapak": "010_kiz_kulesi_kapak.jpg"
+  }
+ ],
+ "youtube": {
+  "abone": 76,
+  "izlenme": 24801
+ },
+ "guncelleme": "2026-11-23"
+}
