@@ -1,13 +1,13 @@
 {
- "takipci": 8487,
- "izlenme": 719521,
- "paylasim": 8971,
- "kaydetme": 5822,
- "erisim30": 369219,
+ "takipci": 8613,
+ "izlenme": 736189,
+ "paylasim": 9173,
+ "kaydetme": 5932,
+ "erisim30": 377513,
  "takipsiz_yuzde": 92,
  "kitle": {
-  "kadin": 53,
-  "yas25_44": 72,
+  "kadin": 54,
+  "yas25_44": 71,
   "sehir1": "İstanbul",
   "sehir1_yuzde": 66,
   "sehirler": [
@@ -22,7 +22,7 @@
    "id": "18141422221537968",
    "vid": "001_rumeli_hisari",
    "ad": "Rumeli Hisarı",
-   "izlenme": 323368,
+   "izlenme": 326187,
    "adres": "https://www.instagram.com/reel/DffPb3KFHyM/",
    "kapak": "001_rumeli_hisari_kapak.jpg"
   },
@@ -30,7 +30,7 @@
    "id": "18124213499472061",
    "vid": "040_pera_palas",
    "ad": "Pera Palas Oteli",
-   "izlenme": 95638,
+   "izlenme": 96677,
    "adres": "https://www.instagram.com/reel/Df4F-_DDJYV/",
    "kapak": "040_pera_palas_kapak.jpg"
   },
@@ -38,7 +38,7 @@
    "id": "18110519579260919",
    "vid": "033_anadolu_hisari",
    "ad": "Anadolu Hisarı",
-   "izlenme": 66443,
+   "izlenme": 67112,
    "adres": "https://www.instagram.com/reel/Dftn6gdCZqz/",
    "kapak": "033_anadolu_hisari_kapak.jpg"
   },
@@ -46,14 +46,14 @@
    "id": "17957002128299578",
    "vid": "010_kiz_kulesi",
    "ad": "Kız Kulesi",
-   "izlenme": 41419,
+   "izlenme": 42026,
    "adres": "https://www.instagram.com/reel/DfrDCl8nCa6/",
    "kapak": "010_kiz_kulesi_kapak.jpg"
   }
  ],
  "youtube": {
-  "abone": 78,
-  "izlenme": 27215
+  "abone": 80,
+  "izlenme": 29115
  },
- "guncelleme": "2026-11-26"
+ "guncelleme": "2026-11-27"
 }
